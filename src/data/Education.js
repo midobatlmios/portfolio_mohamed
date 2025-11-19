@@ -1,6 +1,12 @@
 const workAndEducation = [
   {
-    year: "2023-présent",
+    year: "Juin 2022",
+    organization: "Licence Pro Développement Web Full Stack et DevOps",
+    position: "Supemir , École Supérieure D'ingénierie Et De Management",
+    
+  },
+  {
+    year: "2023-2025",
     organization: "Technicien Spécialisé en DéveloppementDigital",
     position: "Institut Spécialisé en Gestion et Informatique ,(centre phililps)",
     
